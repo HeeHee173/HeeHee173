@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeeHee173
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning construct 3 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 you can dm on discord (HeeHee173#7572) or email me (belljeremy221204@gmail.com)
 
